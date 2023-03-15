@@ -15,6 +15,11 @@
 	shallow = true
 	subdir = OncoSimulR
 	registered = true
+[submodule "PHYLOGR"]
+	path = PHYLOGR
+	url = https://github.com/rdiaz02/phylogr
+	shallow = true
+	registered = true
 [submodule "varSelRF"]
 	path = varSelRF
 	url = https://github.com/rdiaz02/varselrf

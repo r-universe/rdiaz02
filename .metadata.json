@@ -6,6 +6,10 @@
     "package": "OncoSimulR"
   },
   {
+    "package": "PHYLOGR",
+    "oncran": true
+  },
+  {
     "package": "varSelRF",
     "oncran": true
   }
