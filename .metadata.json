@@ -1,12 +1,12 @@
 [
   {
-    "package": "varSelRF",
-    "oncran": true
-  },
-  {
     "package": "ADaCGH2"
   },
   {
     "package": "OncoSimulR"
+  },
+  {
+    "package": "varSelRF",
+    "oncran": true
   }
 ]
