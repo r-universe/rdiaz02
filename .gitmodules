@@ -1,27 +1,18 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ADaCGH2"]
 	path = ADaCGH2
 	url = https://github.com/rdiaz02/adacgh2
-	shallow = true
 	subdir = ADaCGH2
-	registered = true
 [submodule "OncoSimulR"]
 	path = OncoSimulR
 	url = https://github.com/rdiaz02/oncosimul
-	shallow = true
 	subdir = OncoSimulR
-	registered = true
 [submodule "PHYLOGR"]
 	path = PHYLOGR
 	url = https://github.com/rdiaz02/phylogr
-	shallow = true
-	registered = true
 [submodule "varSelRF"]
 	path = varSelRF
 	url = https://github.com/rdiaz02/varselrf
-	shallow = true
-	registered = true
